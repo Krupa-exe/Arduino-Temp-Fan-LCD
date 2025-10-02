@@ -1,6 +1,6 @@
 # Sistema de Controle de Temperatura com Arduino
 
-Este projeto simula um sistema de controle de temperatura utilizando Arduino e sensores. O sistema aciona um ventilador quando a temperatura ambiente atinge um limite definido e indica o status com LEDs.
+Este projeto simula um sistema de controle de temperatura utilizando Arduino e sensores. O sistema aciona um ventilador quando a temperatura ambiente atinge um limite definido e indica o status por meio de LEDs além de apresentar informações no LCD.
 
 ---
 
