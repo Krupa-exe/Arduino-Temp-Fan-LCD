@@ -37,7 +37,7 @@ Este projeto simula um sistema de controle de temperatura utilizando Arduino e s
 
 ---
 ## Código
-Verificar o arquivo: 
+Verificar o arquivo: VentiladorInteligenteLCD.ino
 
 ---
 
