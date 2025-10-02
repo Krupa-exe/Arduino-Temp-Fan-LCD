@@ -32,6 +32,14 @@ Este projeto simula um sistema de controle de temperatura utilizando Arduino e s
 > Para simulação online: https://www.tinkercad.com/things/i21bhWarqPM-ventilador-automatico
 
 ---
+## Circuito
+<img width="755" height="385" alt="VentiladorInteligenteLCD" src="https://github.com/user-attachments/assets/1e8ef21f-6edd-400c-bf78-d4d6989165da" />
+
+---
+## Código
+Verificar o arquivo: 
+
+---
 
 ## Contribuições
 
